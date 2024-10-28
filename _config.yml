@@ -53,3 +53,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+git_hash: "{{ site.env.GIT_HASH }}"
+build_time: "{{ site.env.BUILD_TIME }}"
