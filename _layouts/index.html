@@ -1,0 +1,15 @@
+---
+layout: abstract
+---
+<p>Build Hash: {{ site.data.build.hash }}</p>
+<p>Build Time: {{ site.data.build.time }}</p>
+<p>Control: {{ site.data.foo.bar }}</p>
+{% for i in (0..2) %}
+{% assign post = site.posts[i] %}
+  <a
+    href="{{ post.url }}"
+    aria-label="{{ post.title }}"
+  >
+    {{ post.title }}
+  </a>
+{% endfor %}

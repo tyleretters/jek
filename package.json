@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "bundle exec jekyll serve --baseurl '' --livereload",
+    "css": "cd assets/stylesheets && sass --watch style.scss:style.css",
+    "build": "./build.sh",
+    "discography": "npm install @tyleretters/discography@latest && cp ./node_modules/@tyleretters/discography/dist/discography.yml _data/discography.yml"
+  },
+  "dependencies": {
+    "@tyleretters/discography": "^1.0.3"
+  }
+}
