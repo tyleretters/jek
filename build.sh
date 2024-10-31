@@ -1,4 +1,6 @@
 #!/bin/sh
+export LANG=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
 bundle install
 sass assets/stylesheets/style.scss:assets/stylesheets/style.css
 echo "hash: $(git rev-parse HEAD)" > _data/build.yml
