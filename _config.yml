@@ -1,13 +1,13 @@
-title: "Northern Information"
-author: "Tyler Etters"
-description: "Midwestern musician holed-up in the mountains by Los Angeles."
+title: Northern Information
+author: Tyler Etters
+description: Midwestern musician holed-up in the mountains by Los Angeles.
 twitter_site: "@tyleretters"
 twitter_creator: "@tyleretters"
-twitter_image_src: "/assets/images/applied-sciences-and-phantasms-working-division.png"
-og_image: "/assets/images/applied-sciences-and-phantasms-working-division.png"
-github: "https://github.com/tyleretters/nor.the-rn.info/blob/main"
-baseurl: "/"
-url: "https://nor.the-rn.info"
+twitter_image_src: /assets/images/applied-sciences-and-phantasms-working-division.png
+og_image: /assets/images/applied-sciences-and-phantasms-working-division.png
+github: https://github.com/tyleretters/nor.the-rn.info/blob/main
+baseurl: /
+url: https://vaporwavemall.com
 permalink: /:year/:month/:day/:title
 sort_by: year, month
 markdown: kramdown
