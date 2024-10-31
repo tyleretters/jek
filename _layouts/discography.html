@@ -1,0 +1,36 @@
+---
+layout: abstract
+---
+<main class="container-fluid discography">
+  <div class="row">
+    <div class="col-sm-12 col-md-4">
+      <h2>{{ page.title }}</h2>
+      {{ page.content | markdownify }}
+    </div>
+  </div>
+  <table>
+    <thead>
+      <tr>
+        <th>Year</th>
+        <th>Project</th>
+        <th>Release</th>
+        <th>Type</th>
+        <th>Label</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% assign discography_by_order = site.data.discography | sort: "released" | reverse %}
+      {% for release in discography_by_order %}
+        {% assign date_string = release.released %}
+        {% assign year = date_string | slice: 1, 4 %}
+        <tr>
+          <td>{{ year }}</td>
+          <td>{{ release.project }}</td>
+          <td>{{ release.title }}</td>
+          <td>{{ release.type }}</td>
+          <td>{{ release.label }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</main>

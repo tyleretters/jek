@@ -1,0 +1,22 @@
+---
+layout: abstract
+---
+<main class="container-fluid">
+  {% assign project_by_order = site.data.projects | sort: "order" | reverse %}
+  {% for project in project_by_order %}
+    <div class="row">
+      <div class="col">
+        <h2 id="{{ project.title | downcase | replace: " / ", "-" | replace: " ", "-" }}">{{ project.title }}</h2>
+        <p class="mb-3">{{ project.dates }}</p>
+      </div>
+    </div>
+    <div class="row mb-10">
+      <div class="col-sm-12 col-md-4">
+        {{ project.content | markdownify }}
+      </div>
+      <div class="col-sm-12 col-md-8">
+        <a href="{{ project.image }}" class="a-image"><img src="{{ project.image }}" /></a>
+      </div>
+    </div>
+  {% endfor %}
+</main>

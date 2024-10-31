@@ -1,15 +1,37 @@
 ---
 layout: abstract
 ---
-<p>Build Hash: {{ site.data.build.hash }}</p>
-<p>Build Time: {{ site.data.build.time }}</p>
-<p>Control: {{ site.data.foo.bar }}</p>
-{% for i in (0..2) %}
-{% assign post = site.posts[i] %}
-  <a
-    href="{{ post.url }}"
-    aria-label="{{ post.title }}"
-  >
-    {{ post.title }}
-  </a>
-{% endfor %}
+<main class="container-fluid home">
+  <div class="row">
+    <div class="col-12 col-md-6 col-lg-4">
+      <ul class="post-list mb-5">
+        {% for i in (0..2) %}
+        {% assign post = site.posts[i] %}
+        <li>
+          <a
+            href="{{ post.url }}"
+            aria-label="{{ post.title }}"
+          >
+            {{ post.title }}
+            <br/>
+            <time class="small">{{ post.date | date: "%b %-d, %Y" }}</time>
+          </a>
+        </li>
+        {% endfor %}
+        <li>
+          <a
+            href="/blog"
+            aria-label="All Posts"
+          >
+            All Posts &rarr;
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-12 col-md-6 col-lg-8">
+      <h1>"We build our computer systems the way we build our cities: over time, without a plan, on top of ruins."<br/>— <a href="https://en.wikipedia.org/wiki/Ellen_Ullman">Ellen Ullman</a></h1>
+    </div>
+  </div>
+</main>

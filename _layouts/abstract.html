@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-  <body>
+  {% include variables.html %}
+  {% include head.html %}
+  <body class="{{ page.classes }}">
+    {% include header.html %}
     {{ content }}
+    {% include footer.html %}
   </body>
 </html>

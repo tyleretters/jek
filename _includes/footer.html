@@ -1,0 +1,29 @@
+<footer class="container-fluid border-bottom">
+  <div class="row">
+    <div class="col pb-1 border-right border-bottom bg-spectrum"></div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12 col-md-4 px-0 border-right border-bottom">
+      <ul>
+        <li>Northern Information</li>
+        <li>2008 &mdash; {{ site.time | date: '%Y' }}, <a href="https://creativecommons.org/licenses/by/4.0/" aria-label="CC BY 4.0 License">CC BY 4.0</a></li>
+        <li>cd LOST_DIR && ./DISAPPEAR</li>
+      </ul>
+    </div>
+    <div class="col-sm-12 col-md-6 px-0 border-right border-bottom">
+      <ul>
+        <li>Build Time: <time>{{ site.data.build.time }}</time>
+        <li>Source: <a href="https://github.com/tyleretters/nor.the-rn.info/commit/{{ site.data.build.hash }}" aria-label="Build Hash">{{ site.data.build.hash | slice: -7, 7 }}</a></li>
+        <li>Atom Feed: <a href="{{ site.url }}/feed.xml" aria-label="Atom Feed">{{ site.url }}/feed.xml</a></li>
+      </ul>
+    </div>
+    <div class="col-sm-12 col-md-2 py-2 border-right border-bottom northern-information">
+      <a href="/dauntless-choir" aria-label="Home">
+        <img src="/assets/images/dc.svg" alt="𝔡𝔞𝔲𝔫𝔱𝔩𝔢𝔰𝔰 𝔠𝔥𝔬𝔦𝔯" class="img-100" />
+      </a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col pb-1 border-right border-bottom bg-spectrum"></div>
+  </div>
+</footer>
