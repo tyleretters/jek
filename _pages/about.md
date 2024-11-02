@@ -9,13 +9,15 @@ My name is Tyler Etters.
 
 I operate out of Los Angeles.
 
-In 2024 I'm primarily releasing music as [They Became What They Beheld](https://tbwtb.com), producing for [RGB](https://untitled.stream/library/project/RoTfZpW8dHvJVVpmd6kpf), and causing mayhem at [Circular Ruin DSP](https://circularruindsp.com).
+In 2024 I'm releasing music as [They Became What They Beheld](https://tbwtb.com) & [Stuxnet](https://stuxnet.me), causing mayhem at [Circular Ruin DSP](https://circularruindsp.com), and producing for [RGB](https://untitled.stream/library/project/RoTfZpW8dHvJVVpmd6kpf).
 
-Visit my [discography](/discography) for a lot more of my music.
+Visit my [discography](/discography) for more of my music.
+
+I work as a Senior Full Stack Engineer at [Discogs](https://discogs.com).
+
+I hold a BFA in graphic design from [Columbia College Chicago](https://colum.edu).
 
 ![Northern Information Applied Sciences & Phantasms Working Division](/assets/images/applied-sciences-and-phantasms-working-division.png)
-
-I work as a Senior Full Stack Engineer at [Discogs](https://discogs.com). I hold a BFA in graphic design from [Columbia College Chicago](https://colum.edu).
 
 My accounts:
 
@@ -34,4 +36,4 @@ My accounts:
 
 For bookings and other mischief:
 
-- `tyler@etters.co`
+- [tyler@etters.co](mailto:tyler@etters.co)
