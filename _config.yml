@@ -1,4 +1,3 @@
-encoding: utf-8
 title: Northern Information
 author: Tyler Etters
 description: Midwestern musician holed-up in the mountains by Los Angeles.
@@ -8,9 +7,10 @@ twitter_image_src: /assets/images/applied-sciences-and-phantasms-working-divisio
 og_image: /assets/images/applied-sciences-and-phantasms-working-division.png
 github: https://github.com/tyleretters/nor.the-rn.info/blob/main
 baseurl: /
-url: https://vaporwavemall.com
+url: https://nor.the-rn.info
 permalink: /:year/:month/:day/:title
 sort_by: year, month
+encoding: utf-8
 markdown: kramdown
 kramdown:
   parse_block_html: true
