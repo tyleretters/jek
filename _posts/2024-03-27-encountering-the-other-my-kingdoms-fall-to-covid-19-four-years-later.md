@@ -35,7 +35,7 @@ Warning: unreliable narrator, imperfect first-person, slippery tense.
 
 ## COVID: The Virus
 
-![Zdzisław Beksiński](/assets/images/zdzisław-beksiński-1.jpg)
+![Zdzislaw Beksinski](/assets/images/zdzislaw-beksinski-1.jpg)
 
 They are in my body and they are communing with me.
 
@@ -49,7 +49,7 @@ Though I know I have several days of biological combat ahead of me, I take comfo
 
 ## COVID: The Symbol
 
-![Zdzisław Beksiński](/assets/images/zdzisław-beksiński-2.jpg)
+![Zdzislaw Beksinski](/assets/images/zdzislaw-beksinski-2.jpg)
 
 COVID: The Symbol was constructed layer-by-layer, by millions of people. We all spun the myth together like so many wasps meticulously layering newspaper scraps into a nest. A headline of lockdown orders here. A grim photograph of bodies overflowing the freezers there. Crucially, at the nest's very core lies a dark mystery - for even now in 2024 there is no consensus as to where the virus actually came from, making it all the more terrifying. And the misinformation is so snarled in with everything I question many of my own memories.
 
@@ -61,11 +61,11 @@ It is important for me to separate these aspects as categorically distinct from 
 
 ## COVID: The Hyperobject
 
-![Zdzisław Beksiński](/assets/images/zdzisław-beksiński-3.jpg)
+![Zdzislaw Beksinski](/assets/images/zdzislaw-beksinski-3.jpg)
 
 The third head of the COVID cerebus is a hyperobject - a thing so massively distributed in time and space that it defies traditional categorization and taxonomy.
 
-Oil is perhaps my favorite example of a hyperobject. Unbelievably ancient fossil fuels, driver of war, the lifeblood of industry, enabler of transit, the taste of her cherry chapstick, greenhouse effect, fractal nausea, the micro-plastics in our bloodstreams, Zdzisław Beksiński's paint. To invoke oil is to invoke all of these things.
+Oil is perhaps my favorite example of a hyperobject. Unbelievably ancient fossil fuels, driver of war, the lifeblood of industry, enabler of transit, the taste of her cherry chapstick, greenhouse effect, fractal nausea, the micro-plastics in our bloodstreams, Zdzislaw Beksinski's paint. To invoke oil is to invoke all of these things.
 
 COVID: The Hyperobject is telecommuting, is social distancing, is anti-maskers, is the immunocompromised, is [Timm's death](/2021/09/06/timm-etters-all-my-love-and-all-my-burning-tears/), is xenophobia, is virology, is flattening the curve, is  everyone cheering out their windows at 7 P.M. in New York City, is COVID: The Virus and COVID: The Symbol, is all these things and innumerable more.
 
@@ -108,5 +108,5 @@ The future I now call the present is haunted by *the very vision of what I thoug
 Images in this post:
 
 - And Then We Saw the Daughter of The Minotaur, by Leonora Carrington 1953
-- Three works by Zdzisław Beksiński
+- Three works by Zdzislaw Beksinski
 - The Concert in the Egg, by Hieronymus Bosh, 1480
