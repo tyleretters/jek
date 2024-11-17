@@ -9,7 +9,12 @@ My name is Tyler Etters.
 
 I operate out of Los Angeles.
 
-In 2024 I'm releasing music as [They Became What They Beheld](https://tbwtb.com) & [Stuxnet](https://stuxnet.me), causing mayhem at [Circular Ruin DSP](https://circularruindsp.com), and producing for [RGB](https://untitled.stream/library/project/RoTfZpW8dHvJVVpmd6kpf).
+In 2024 I'm:
+
+- releasing music as [They Became What They Beheld](https://tbwtb.com)
+- dropping mixes as [DJ Stuxnet](https://untitled.stream/library/project/5Dni4VMX9Qyt1ZvokMYqq)
+- causing mayhem at [Circular Ruin DSP](https://circularruindsp.com)
+- producing tunes for [RGB](https://untitled.stream/library/project/RoTfZpW8dHvJVVpmd6kpf)
 
 Visit my [discography](/discography) for more of my music.
 
@@ -22,6 +27,7 @@ I hold a BFA in graphic design from [Columbia College Chicago](https://colum.edu
 My accounts:
 
 - [Bandcamp](https://intertext.bandcamp.com)
+- [Bluesky](https://bsky.app/profile/tyleretters.bsky.social)
 - [Discord](https://discord.gg/nYycWdsT5n)
 - [Gemini](gemini://tilde.club/~tse/)
 - [GitHub](https://github.com/tyleretters)
