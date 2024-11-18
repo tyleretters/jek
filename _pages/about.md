@@ -13,8 +13,7 @@ My name is Tyler Etters. Artist. Engineer. In 2024 I'm:
 - producing tunes for [RGB](https://untitled.stream/library/project/RoTfZpW8dHvJVVpmd6kpf)
 - engineering for the [record store](https://discogs.com)
 - releasing music as [They Became What They Beheld](https://tbwtb.com)
-
-I hold a BFA in graphic design from [Columbia College Chicago](https://colum.edu).
+- appreciating my framed BFA in graphic design from [Columbia College Chicago](https://colum.edu)
 
 ![Northern Information Applied Sciences & Phantasms Working Division](/assets/images/applied-sciences-and-phantasms-working-division.png)
 
