@@ -5,7 +5,7 @@ permalink: /about
 page_excerpt_overload: Midwestern musician holed-up in the mountains by Los Angeles.
 ---
 
-My name is Tyler Etters. Artist. Engineer. In 2024 I'm:
+My name is Tyler Etters. I'm an artist-main/engineer-sub class. In 2024 I'm:
 
 - operating out of 𝐿𝑜𝑠 𝐴𝑛𝑔𝑒𝑙𝑒𝑠
 - mixing as [DJ Stuxnet](https://untitled.stream/library/project/5Dni4VMX9Qyt1ZvokMYqq)
