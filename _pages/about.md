@@ -5,23 +5,22 @@ permalink: /about
 page_excerpt_overload: Midwestern musician holed-up in the mountains by Los Angeles.
 ---
 
-My name is Tyler Etters.
+My name is Tyler Etters. In 2024 I'm:
 
-I operate out of Los Angeles.
-
-In 2024 I'm releasing music as [They Became What They Beheld](https://tbwtb.com) & [Stuxnet](https://stuxnet.me), causing mayhem at [Circular Ruin DSP](https://circularruindsp.com), and producing for [RGB](https://untitled.stream/library/project/RoTfZpW8dHvJVVpmd6kpf).
-
-Visit my [discography](/discography) for more of my music.
-
-I work as a Senior Full Stack Engineer at [Discogs](https://discogs.com).
-
-I hold a BFA in graphic design from [Columbia College Chicago](https://colum.edu).
+- operating out of 𝐿𝑜𝑠 𝐴𝑛𝑔𝑒𝑙𝑒𝑠
+- mixing as [DJ Stuxnet](https://stuxnet.me)
+- causing mayhem at [Circular Ruin DSP](https://circularruindsp.com)
+- producing tunes for [RGB](https://untitled.stream/library/project/RoTfZpW8dHvJVVpmd6kpf)
+- engineering for the [record store](https://discogs.com)
+- releasing music as [They Became What They Beheld](https://tbwtb.com)
+- appreciating my framed BFA in graphic design from [Columbia College Chicago](https://colum.edu)
 
 ![Northern Information Applied Sciences & Phantasms Working Division](/assets/images/applied-sciences-and-phantasms-working-division.png)
 
 My accounts:
 
 - [Bandcamp](https://intertext.bandcamp.com)
+- [Bluesky](https://bsky.app/profile/tyleretters.bsky.social)
 - [Discord](https://discord.gg/nYycWdsT5n)
 - [Gemini](gemini://tilde.club/~tse/)
 - [GitHub](https://github.com/tyleretters)
