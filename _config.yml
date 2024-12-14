@@ -3,8 +3,8 @@ author: Tyler Etters
 description: Midwestern musician holed-up in the mountains by Los Angeles.
 twitter_site: "@tyleretters"
 twitter_creator: "@tyleretters"
-twitter_image_src: /assets/images/applied-sciences-and-phantasms-working-division.png
-og_image: /assets/images/applied-sciences-and-phantasms-working-division.png
+twitter_image_src: /applied-sciences-and-phantasms-working-division.png
+og_image: /applied-sciences-and-phantasms-working-division.png
 github: https://github.com/tyleretters/nor.the-rn.info/blob/main
 baseurl: /
 url: https://nor.the-rn.info
@@ -18,7 +18,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-redirect-from
-include: ['_pages']
+include: ["_pages"]
 excerpt_separator: <!--x-->
 sass:
   quiet_deps: true
